@@ -20,7 +20,7 @@ I'm Antonio Scetta, Full stack Web Developer Student :computer:.
 - 📫 How to reach me: instagram @antoniotcs.
   
   
-  ---
+ ---
   
 ### :hammer_and_wrench: Languages and Tools :
   <div>
@@ -33,6 +33,7 @@ I'm Antonio Scetta, Full stack Web Developer Student :computer:.
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
   </div>
+
   ---
   
   ### :fire: My stats:
