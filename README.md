@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Antonio Scetta, Full stack Web Developer Student :computer:. 
+I'm Antonio Scetta, Full stack Web Developer :computer:. 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
