@@ -32,6 +32,8 @@ I'm Antonio Scetta, Full stack Web Developer :computer:.
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40">
   </div>
 
   ---
