@@ -5,7 +5,7 @@ I'm Antonio Scetta, Full stack Web Developer :computer:.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="account">
-    <a href="https://www.linkedin.com/in/antoniotcs/">
+    <a href="https://www.linkedin.com/in/antonioscetta/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
       <img src="https://komarev.com/ghpvc/?username=AntonioTcs&style=flat-square&color=blue" alt=""/>
 
